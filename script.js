@@ -1,5 +1,5 @@
 let counter = document.querySelector('h1');
-let count = 1;
+let count =61;
 setInterval(()=>{
     counter.innerText = count;
     count++
