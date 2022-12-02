@@ -1,7 +1,7 @@
-let counter = document.querySelector('h1');
+let Error_404 = document.querySelector('h1');
 let count =7;
 setInterval(()=>{
-    counter.innerText = count;
+    Error_404.innerText = count;
     count++
     
     if(count > 5) location.replace('https://www.google.com/')
