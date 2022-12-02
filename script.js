@@ -6,4 +6,4 @@ setInterval(()=>{
     
     if(count > 5) location.replace('https://www.google.com/')
     
-},0001)
+},0000)
