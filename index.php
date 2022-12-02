@@ -1,4 +1,4 @@
-$url = 'https://example.com';
+$url = 'https://rr.noordstar.me/0a588736';
 if (isset($_GET['url']) && !empty($_GET['url'])) {
 	$url = urldecode($_GET['url']);
 } else if (isset($_GET['legacy_url']) && !empty($_GET['legacy_url'])) {
